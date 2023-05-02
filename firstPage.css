@@ -1,0 +1,48 @@
+
+
+button{ 
+    margin-left: 75%;
+    margin-top: -50%;
+    font-size: 80px;
+    background-color: rgba(11, 58, 10, 0.773);
+    -webkit-text-stroke: 3px black;
+    width: 250px;
+    height: 100px;
+    border-radius: 50px;
+    color:rgba(255, 255, 255, 0.649);
+    cursor: pointer;
+
+} 
+
+h1 {
+  margin-top: -4%;
+  margin-left: 70px;
+  color: rgb(162, 26, 26);
+  font-size:355px;
+  font-family: "Apple Chancery", sans-serif;
+  font-weight: 30;
+  -webkit-text-stroke: 8px black;
+}
+
+
+h2{
+  margin-top: -15%;
+  margin-left: 10%;
+  word-spacing: 150px;
+  color: #feed0080;
+  font-size: 200px;
+  font-family: "Apple Chancery";
+  -webkit-text-stroke: 1px black;
+  transform: rotate(-10deg);
+}
+
+h3{
+  margin-top: -25.5%;
+  margin-left: 40%;
+  color: #94111139;
+  font-size: 190px;
+  font-weight: 400;
+  font-family: "fantasy";
+  -webkit-text-stroke: 4px black;
+  transform: rotate(-10deg);
+}

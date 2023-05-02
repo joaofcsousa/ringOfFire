@@ -1,0 +1,67 @@
+
+
+.button-rules-next {
+  margin-top: -2%;
+  margin-right: 25px;
+  float: right;
+  background-color:  rgba(11, 58, 10, 0.773);;
+  font-size: 80px;
+  -webkit-text-stroke: 3px black;
+  border-radius: 50px;
+  color:rgba(255, 255, 255, 0.649);
+  cursor: pointer;
+}
+
+
+
+.button-rules-previous {
+  margin-top: -2%;
+  margin-left: 25px;
+  position: fixed;
+  font-size: 60px;
+  background-color: rgba(58, 10, 10, 0.773);
+  -webkit-text-stroke: 3px black;
+  width: 250px;
+  height: 100px;
+  border-radius: 50px;
+  color:rgba(255, 255, 255, 0.649);
+  cursor: pointer;
+}
+
+
+h1 {
+  margin-top: 1%;
+  margin-left: 25px;
+  font-family: "Apple Chancery", sans-serif;
+  color: rgb(162, 26, 26);
+  font-size: 120px;
+  font-weight: 20;
+  -webkit-text-stroke: 3px black;
+}
+
+h2{
+  margin-top: -5%;
+  margin-left: 15%;
+  font-family: "Apple Chancery", sans-serif;
+  color: rgb(183, 183, 183);
+  font-size: 60px;
+  
+
+}
+
+.container2{
+  background-color: rgba(0, 0, 0, 0.699);
+}
+
+
+p{
+  margin: 0 0 1px 0;
+  margin-left: 10%;
+  font-size: 35px;
+  font-family: "Apple Chancery";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  
+
+}
+

@@ -1,0 +1,36 @@
+
+
+h1 {
+  margin-top: 0%;
+  margin-left: 70px;
+  color: rgb(162, 26, 26);
+  font-size:250px;
+  font-family: "Apple Chancery", sans-serif;
+  font-weight: 30;
+  -webkit-text-stroke: 8px black;
+}
+
+
+h2{
+  margin-top: -10%;
+  margin-left: 4%;
+  color: #0c8610;
+  font-size: 180px;
+  font-family: "Apple Chancery";
+  -webkit-text-stroke: 1px black;
+  transform: rotate(-10deg);
+}
+
+.restart {
+  margin-left: 75%;
+  margin-top: -20%;
+  font-size: 50px;
+  background-color: rgba(11, 58, 10, 0.773);
+  -webkit-text-stroke: 3px black;
+  width: 250px;
+  height: 100px;
+  border-radius: 50px;
+  color:rgba(255, 255, 255, 0.649);
+  cursor: pointer;
+}
+
